@@ -23,6 +23,9 @@ header h1 a:hover {
 a:link{
   color: white;
 }
+a:visited{
+  color: lightblue;
+}
 nav li a:hover {
   color: #7e8aa2;
 }
