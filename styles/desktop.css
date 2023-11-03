@@ -20,12 +20,7 @@ header h1 a:hover {
   padding: 10px;
   
 }
-a:link{
-  color: white;
-}
-a:visited{
-  color: red;
-}
+
 nav li a:hover {
   color: #7e8aa2;
 }

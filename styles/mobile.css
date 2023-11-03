@@ -33,7 +33,12 @@ nav ul {
   display: flex;
   flex-direction: column;
 }
-
+a:link{
+  color: white;
+}
+a:visited{
+  color: red;
+}
 nav ul li {
   border-bottom: 1px solid #ccc;
   padding: 5px;
