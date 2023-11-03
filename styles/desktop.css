@@ -24,7 +24,7 @@ a:link{
   color: white;
 }
 a:visited{
-  color: lightblue;
+  color: red;
 }
 nav li a:hover {
   color: #7e8aa2;
