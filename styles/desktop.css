@@ -18,6 +18,9 @@ header h1 a:hover {
 }
 #logo {
   padding: 10px;
+  
+}
+a:link{
   color: white;
 }
 nav li a:hover {
